@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.igitras.spring.boot.starter.axon.AxonAutoConfiguration
